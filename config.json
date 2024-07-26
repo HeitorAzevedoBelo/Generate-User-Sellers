@@ -1,0 +1,19 @@
+{
+    "MONGO_COLLECTION": "users_sellers",
+    "MONGO_DATABASE": "artemis",
+    "SELLERS": ["221512"],
+    "MCC_DICT": [
+      {"mcc": 5422, "category": "AÇOUGUEIRO"},
+      {"mcc": 5462, "category": "PADARIA"},
+      {"mcc": 5499, "category": "LOJA DE ALIMENTOS"},
+      {"mcc": 5411, "category": "SUPERMERCADO"},
+      {"mcc": 5812, "category": "RESTAURANTE"},
+      {"mcc": 5814, "category": "FAST FOOD"},
+      {"mcc": 5921, "category": "LOJA DE BEBIDAS"},
+      {"mcc": 5300, "category": "ATACADISTA"},
+      {"mcc": 5441, "category": "CONFEITARIA"},
+      {"mcc": 5451, "category": "LOJA DE LATICÍNIOS"}
+    ],
+    "TRANSACTION_TYPES": ["QRCODE", "PIX", "CARD"]
+  }
+  

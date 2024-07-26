@@ -27,8 +27,5 @@ Thumbs.db
 *.sublime-project
 *.code-workspace
 
-# Arquivos de configuração específicos do sistema
-config.json
-
 # Arquivos de saída
 output_json/
